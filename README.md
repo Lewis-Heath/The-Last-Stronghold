@@ -1,2 +1,2 @@
 # The-Last-Stronghold
- Written in C# using Unity
+ Written in C# using Unity.
